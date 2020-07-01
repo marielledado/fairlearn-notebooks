@@ -1,5 +1,8 @@
 # Testing out Fairlearn with Student Performance Dataset
 
+
+Original dataset: https://archive.ics.uci.edu/ml/datasets/student+performance
+
 Notebooks:
 
 1. `analysis.ipynb` - trying out Fairlearn's features with the dataset
