@@ -6,3 +6,6 @@ Notebooks:
 2. `eda.ipynb` - exploring the dataset
 
 
+Setup virtual environment
+
+`conda env create -f environment.yml`
